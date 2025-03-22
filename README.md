@@ -9,3 +9,9 @@ IP：2a14:67c0:100::af
 端口：40000  
 用户名：alice  
 密码：alicefofo123..@
+
+
+```bash
+chmod +x install_tun2socks.sh
+sudo ./install_tun2socks.sh
+curl -4 ip.sb
